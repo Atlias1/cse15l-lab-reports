@@ -15,12 +15,12 @@ Hello CSE 15l
 2. two
 3. three
 
---- something
+---
 
-'code' with text
+`code` with text
 
-'''
+```
 # code block
 something
 somethingelse
-'''
+```
